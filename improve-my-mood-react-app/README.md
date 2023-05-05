@@ -1,3 +1,9 @@
+# ImproveMyMood React App
+
+The idea of the project is to build an app that will have a positive impact on someone else's life.  
+We all struggle sometimes and go through different emotions. I hope that it will brighten someone's 
+life when in need.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
